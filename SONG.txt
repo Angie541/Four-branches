@@ -6,5 +6,11 @@ I had to fall
 To lose it all
 But in the end
 It dosen't even matter
+<<<<<<< HEAD
 ______________________
 ----------------------
+=======
+
+One thing, I don't know why
+It doesn't even matter how hard you try…
+>>>>>>> bb60a9f90942d594ae0fc86e7a588fa9f42495c0
